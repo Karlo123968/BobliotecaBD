@@ -1,4 +1,4 @@
-# BobliotecaBD
+# BibliotecaBD
 # 📚 Proyecto CRUD - Biblioteca
 
 ## 🧠 Descripción
