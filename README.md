@@ -1,30 +1,53 @@
-# BibliotecaBD
-# 📚 Proyecto CRUD - Biblioteca
+# Library Management System (CRUD)
 
-## 🧠 Descripción
-Este proyecto permite realizar operaciones CRUD (Alta, Baja, Cambio y Consulta) de libros en una base de datos MySQL.
+## Overview
 
-## ⚙️ Tecnologías utilizadas
-- C#
-- MySQL
-- Visual Studio
-- MySql.Data (NuGet)
+This project is a web application that implements full CRUD (Create, Read, Update, Delete) operations for managing books stored in a MySQL database. It was developed using C# and ASP.NET WebForms as part of a Visual Programming course.
 
-## 🎥 Video de demostración
-[Ver en YouTube](https://youtu.be/A9z_bnN8WXA)
+## Technologies
 
-## 💾 Base de datos
-**Nombre:** BibliotecaDB  
-**Tabla:** Libro  
+* C#
+* ASP.NET WebForms
+* MySQL
+* MySql.Data (NuGet)
+* HTML
+* CSS
+* Visual Studio
 
-Campos:
-- `Titulo`
-- `Autor`
-- `ISBN`
-- `Genero`
-- `Anio`
-- `Activo`
+## Features
 
-## 👨‍💻 Alumno
-**Nombre:** Karlo Ordaz  
-**Materia:** Programación Visual
+* Add new books
+* Update existing book information
+* Delete books from the database
+* Search and display book records
+* Input validation
+* MySQL database integration
+
+## Database
+
+**Database:** BibliotecaDB
+
+**Table:** Libro
+
+Fields:
+
+* Title
+* Author
+* ISBN
+* Genre
+* Publication Year
+* Availability
+
+## Demo
+
+🎥 YouTube Demo:
+https://youtu.be/k-U5KZXu9q0
+
+## Author
+
+**Karlo Ordaz**
+
+Bachelor's Degree in Information Technology
+
+Universidad Autónoma de Aguascalientes
+
